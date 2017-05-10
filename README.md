@@ -1,7 +1,9 @@
-[v0.0.2](https://github.com/littleflute/JamesTaylor/edit/master/README.md)
+[v0.0.3](https://github.com/littleflute/JamesTaylor/edit/master/README.md)
 
 [show this page](https://littleflute.github.io/JamesTaylor/)
  
+[before this world](before this world)
+
 [October road](October road)
 
 [Other covers](Other covers)
