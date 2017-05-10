@@ -1,4 +1,4 @@
-[v0.0.5](https://github.com/littleflute/JamesTaylor/edit/master/October%20road/readme.md)
+[v0.0.6](https://github.com/littleflute/JamesTaylor/edit/master/October%20road/readme.md)
 
 [show this page](https://littleflute.github.io/JamesTaylor/October%20road)
 
@@ -24,6 +24,10 @@ html += fNewBtn(5);
 html += fNewBtn(6);
 html += fNewBtn(7);
 html += fNewBtn(8); 
+html += fNewBtn(9); 
+html += fNewBtn(10); 
+html += fNewBtn(11); 
+html += fNewBtn(12); 
  
 d.innerHTML = html;
 
