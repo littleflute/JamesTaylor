@@ -1,4 +1,6 @@
-[v0.0.3](https://github.com/littleflute/JamesTaylor/edit/master/README.md)
+[v0.0.4](https://github.com/littleflute/JamesTaylor/edit/master/README.md)
+
+[One man band](One man band)
 
 [show this page](https://littleflute.github.io/JamesTaylor/)
  
