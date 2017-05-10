@@ -1,4 +1,4 @@
-[v0.0.5](https://github.com/littleflute/JamesTaylor/edit/master/Other%20covers/readme.md)
+[v0.0.6](https://github.com/littleflute/JamesTaylor/edit/master/Other%20covers/readme.md)
 
 [show this page](https://littleflute.github.io/JamesTaylor/Other%20covers)
 
@@ -22,8 +22,7 @@ html += fNewBtn(3);
 html += fNewBtn(4);
 html += fNewBtn(5);
 html += fNewBtn(6);
-html += fNewBtn(7);
-html += fNewBtn(8); 
+html += fNewBtn(7); 
  
 d.innerHTML = html;
 
