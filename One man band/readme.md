@@ -1,4 +1,4 @@
-[v0.0.7](https://github.com/littleflute/JamesTaylor/edit/master/One%20man%20band/readme.md)
+[v0.0.8](https://github.com/littleflute/JamesTaylor/edit/master/One%20man%20band/readme.md)
 
 [show this page](https://littleflute.github.io/JamesTaylor/One%20man%20band)
 
@@ -15,15 +15,12 @@ Your browser does not support the audio element.
 <script>
 var d = document.getElementById("xd"); 
 var html = d.innerHTML; 
+for(var n=1; n <= 19;n++)
+{
+	html += fNewBtn(n);
 
-html += fNewBtn(1);
-html += fNewBtn(2);
-html += fNewBtn(3);
-html += fNewBtn(4);
-html += fNewBtn(5);
-html += fNewBtn(6);
-html += fNewBtn(7); 
- 
+} 
+
 d.innerHTML = html;
 
 var p = document.getElementById("player");
