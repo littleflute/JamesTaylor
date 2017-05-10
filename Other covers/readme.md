@@ -1,4 +1,4 @@
-[v0.0.4](https://github.com/littleflute/JamesTaylor/edit/master/Other%20covers/readme.md)
+[v0.0.5](https://github.com/littleflute/JamesTaylor/edit/master/Other%20covers/readme.md)
 
 [show this page](https://littleflute.github.io/JamesTaylor/Other%20covers)
 
@@ -7,7 +7,7 @@
 
 
 <audio controls id="player"> 
-  <source src="https://littleflute.github.io/JamesTaylor/edit/master/Other%20covers/cd/01_曲目 1.mp3" type="audio/mpeg">
+  <source src="https://littleflute.github.io/JamesTaylor/Other%20covers/cd/01_曲目 1.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 <div id="xd"> 
@@ -30,7 +30,7 @@ d.innerHTML = html;
 var p = document.getElementById("player");
 function f(i)
 {
-    var s = "https://littleflute.github.io/JamesTaylor/edit/master/Other%20covers/cd/";
+    var s = "https://littleflute.github.io/JamesTaylor/Other%20covers/cd/";
     if(i<10) 
     {
     	s += "0";
