@@ -1,4 +1,4 @@
-[v0.0.6](https://github.com/littleflute/JamesTaylor/edit/master/before%20this%20world/readme.md)
+[v0.0.7](https://github.com/littleflute/JamesTaylor/edit/master/before%20this%20world/readme.md)
 
 [show this page](https://littleflute.github.io/JamesTaylor/before%20this%20world)
 
@@ -25,9 +25,7 @@ html += fNewBtn(6);
 html += fNewBtn(7);
 html += fNewBtn(8); 
 html += fNewBtn(9); 
-html += fNewBtn(10); 
-html += fNewBtn(11); 
-html += fNewBtn(12); 
+html += fNewBtn(10);  
  
 d.innerHTML = html;
 
