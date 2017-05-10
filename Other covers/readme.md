@@ -1,4 +1,4 @@
-[v0.0.3](https://github.com/littleflute/JamesTaylor/edit/master/Other%20covers/readme.md)
+[v0.0.4](https://github.com/littleflute/JamesTaylor/edit/master/Other%20covers/readme.md)
 
 [show this page](https://littleflute.github.io/JamesTaylor/Other%20covers)
 
